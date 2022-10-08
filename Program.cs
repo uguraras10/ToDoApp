@@ -13,6 +13,11 @@ namespace ConsoleApp1
             Console.WriteLine("Nketiah");
             Console.WriteLine("Luka Modric ");
             Console.WriteLine("Fernando Gago");
+
+            Console.WriteLine("Raul Meireles");
+            Console.WriteLine("Oscar Cardozo");
+
+
         }
     }
 }
