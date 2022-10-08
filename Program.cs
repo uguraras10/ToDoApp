@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Nketiah");
+            Console.WriteLine("Başka bir ekleme yapıldı uleynn ");
         }
     }
 }
