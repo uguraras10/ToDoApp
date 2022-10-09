@@ -17,6 +17,9 @@ namespace ConsoleApp1
             Console.WriteLine("Raul Meireles");
             Console.WriteLine("Oscar Cardozo");
 
+            Console.WriteLine("Raul Meireles");
+            Console.WriteLine("Oscar Cardozo");
+
 
         }
     }
