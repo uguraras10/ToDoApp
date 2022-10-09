@@ -20,6 +20,9 @@ namespace ConsoleApp1
             Console.WriteLine("Raul Meireles");
             Console.WriteLine("Oscar Cardozo");
 
+            Console.WriteLine("Guiterrz");
+            Console.WriteLine("Cristiano Ronaldo");
+
 
         }
     }
